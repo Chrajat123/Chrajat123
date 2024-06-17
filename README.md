@@ -2,7 +2,8 @@
 - 👀 I’m interested in doing software thimgs
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on company which have interest in web development
-- 📫 You can reach me at rajatchaudhary01234@gmail.com 
+- 📫 You can reach me at rajatchaudhary01234@gmail.com
+- You can also see my portfolio on this link https://chrajat123.github.io/html-portfolio/
 
 <!---
 Chrajat123/Chrajat123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
